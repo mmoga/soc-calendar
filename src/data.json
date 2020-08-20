@@ -1,0 +1,12 @@
+{
+  "fall": {
+    "year": "2020",
+    "exams": [
+      { "course": "CHM 2045", "examDate": "September 16" },
+      { "course": "CHM 2210", "examDate": "September 16" },
+      { "course": "CHM 2211", "examDate": "October 14" },
+      { "course": "PHY 2048", "examDate": "October 1" },
+      { "course": "ECO 2023", "examDate": "November 18" }
+    ]
+  }
+}

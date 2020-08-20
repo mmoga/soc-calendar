@@ -1,0 +1,9 @@
+{
+  "fall": {
+    "year": "2020",
+    "exams": [
+      { "course": "CHM 2045", "examDate": "September 16" },
+      { "course": "CHM 2210", "examDate": "September 16" }
+    ]
+  }
+}
